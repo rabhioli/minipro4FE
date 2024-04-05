@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import CustomModal from './components/Modal';
 import './App.css';
 
 const tasks = [
